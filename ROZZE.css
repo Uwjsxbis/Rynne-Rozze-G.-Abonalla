@@ -21,7 +21,7 @@ body {
    left: 0;
    width: 90%;
    padding: 10px 90px;
-   background: #f6c6fa;
+   background: blur;
    display: flex;
    justify-content: space-between;
    align-items: center;
